@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Uche
+Hi,
 
 My Name is Uche ICT and I like Web Development
 
